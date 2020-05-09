@@ -9,7 +9,7 @@ mvn clean install
 ### 执行
 
 `
-java -jar target/monitor-admin-1.0.0.jar
+java -jar target/eureka-register-1.0.0.jar
 `
 
 ### [浏览器访问](http://localhost:8761/)
