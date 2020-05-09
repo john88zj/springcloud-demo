@@ -47,7 +47,7 @@
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 
-		<!--email 配置，用于异常邮件通知-->
+		<!--email依赖包，用于异常邮件通知-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-mail</artifactId>
